@@ -1,0 +1,7 @@
+#test123
+os: linux
+dist: focal
+language: shell
+install: skip
+#check2
+script: false
